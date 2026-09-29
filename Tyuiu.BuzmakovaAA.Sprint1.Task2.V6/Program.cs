@@ -34,6 +34,7 @@ namespace Tyuiu.BuzmakovaAA.Sprint1.Task2.V6
 
             Console.WriteLine(ds.Calculate( vaulue));
 
+
             Console.ReadLine();
         }
     }
